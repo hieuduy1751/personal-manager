@@ -1,1 +1,169 @@
-/* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap');
+
+$purple-color: #8C30F5;
+$purple800-color: #D6B1FF;
+$purple100-color: #F1E4FF;
+$turquoise-color: #2EC5CE;
+$turquoise800-color: #75E3EA;
+$turquoise100-color: #D5FAFC;
+$orange-color: #FE9A22;
+$orange800-color: #FFC278;
+$orange100-color: #FFE3C1;
+$pink-color: #F22BB2;
+$pink800-color: #FF72D2;
+$pink100-color: #FFB1E6;
+$pt-green-color: #C1E5C0;
+$pt-blue-color: #C0DAE5;
+$ac-peach-color: #F39F9F;
+$lg-peach-color: #FDD9D9;
+$ct-candy-color: #FFC3D8;
+$ac-cyan-color: #A0DCFF;
+
+
+* {
+    font-family: 'Inter';
+}
+
+.text-purple {
+    color: $purple-color;
+}
+
+.text-purple-800 {
+    color: $purple800-color;
+}
+
+.text-purple-100 {
+    color: $purple100-color;
+}
+
+.text-turquoise {
+    color: $turquoise-color;
+}
+
+.text-turquoise-800 {
+    color: $turquoise800-color;
+}
+
+.text-turquoise-100 {
+    color: $turquoise100-color;
+}
+
+.text-orange {
+    color: $orange-color;
+}
+
+.text-orange-800 {
+    color: $orange800-color;
+}
+
+.text-orange-100 {
+    color: $orange100-color;
+}
+
+.text-pink {
+    color: $pink-color;
+}
+
+.text-pink-800 {
+    color: $pink800-color;
+}
+
+.text-pink-100 {
+    color: $pink100-color;
+}
+
+.text-pt-green {
+    color: $pt-green-color;
+}
+
+.text-pt-blue {
+    color: $pt-blue-color;
+}
+
+.text-ac-peach {
+    color: $ac-peach-color;
+}
+
+.text-lg-peach {
+    color: $lg-peach-color;
+}
+
+.text-ct-candy {
+    color: $ct-candy-color;
+}
+
+.text-ac-cyan {
+    color: $ac-cyan-color;
+}
+
+.bg-purple {
+    background-color: $purple-color;
+}
+
+.bg-purple-800 {
+    background-color: $purple800-color;
+}
+
+.bg-purple-100 {
+    background-color: $purple100-color;
+}
+
+.bg-turquoise {
+    background-color: $turquoise-color;
+}
+
+.bg-turquoise-800 {
+    background-color: $turquoise800-color;
+}
+
+.bg-turquoise-100 {
+    background-color: $turquoise100-color;
+}
+
+.bg-orange {
+    background-color: $orange-color;
+}
+
+.bg-orange-800 {
+    background-color: $orange800-color;
+}
+
+.bg-orange-100 {
+    background-color: $orange100-color;
+}
+
+.bg-pink {
+    background-color: $pink-color;
+}
+
+.bg-pink-800 {
+    background-color: $pink800-color;
+}
+
+.bg-pink-100 {
+    background-color: $pink100-color;
+}
+
+.bg-pt-green {
+    background-color: $pt-green-color;
+}
+
+.bg-pt-blue {
+    background-color: $pt-blue-color;
+}
+
+.bg-ac-peach {
+    background-color: $ac-peach-color;
+}
+
+.bg-lg-peach {
+    background-color: $lg-peach-color;
+}
+
+.bg-ct-candy {
+    background-color: $ct-candy-color;
+}
+
+.bg-ac-cyan {
+    background-color: $ac-cyan-color;
+}
