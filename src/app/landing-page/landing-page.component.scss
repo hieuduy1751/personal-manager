@@ -109,8 +109,13 @@ nav {
 
 .download {
     z-index: 1;
+    .download__left {
+      background-color: #2EC5CE;
+      z-index: 10;
+    }
     .download__right {
         z-index: 1;
+        height: 300px;
         img:first-of-type {
             top: -250px;
             z-index: 2;
